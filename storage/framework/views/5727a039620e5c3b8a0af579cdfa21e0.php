@@ -1,0 +1,2 @@
+<img alt="" src="/images/logo.png" <?php echo e($attributes); ?> style="width: 75px; background-color:transparent;">
+<?php /**PATH C:\Users\CURBY-LEE WILLIAMS\OneDrive\Desktop\Laravel folder\stocktake\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
